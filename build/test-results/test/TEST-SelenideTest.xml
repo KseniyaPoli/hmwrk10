@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SelenideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-05T13:24:37" hostname="POLITYUKOVA-K" time="7.889">
+  <properties/>
+  <testcase name="issueSearchTest()" classname="SelenideTest" time="7.889"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 55196
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+нояб. 05, 2022 4:24:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+нояб. 05, 2022 4:24:40 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 107, so returning the closest version found: 104
+нояб. 05, 2022 4:24:40 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 107 of 104
+]]></system-err>
+</testsuite>

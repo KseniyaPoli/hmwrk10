@@ -1,0 +1,1 @@
+{"uuid":"a4f0b773-8b3d-4585-9dc3-3b4d0300139f","name":"Kitties","children":["bcbc69aa-4b5c-4f73-a589-a479742f3d4b"],"befores":[{"name":"browserParams","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1667241779605,"stop":1667241779621}],"afters":[],"start":1667241779569,"stop":1667241795925}
